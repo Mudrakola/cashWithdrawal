@@ -1,0 +1,21 @@
+.button {
+  background-color: #382f5a;
+  font-family: 'Roboto';
+  color: #d4d2db;
+  font-size: 20px;
+  height: 40px;
+  border: 1px solid #c4c4c4;
+  width: 160px;
+  padding: 5px;
+  margin-right: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.list-container {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
